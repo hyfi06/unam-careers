@@ -1,0 +1,42 @@
+{
+  "name": "@hyfi06/unam-careers",
+  "version": "0.1.0",
+  "description": "Module of UNAM Careers ids",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest",
+    "prepublish": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyfi06/unam-careers.git"
+  },
+  "keywords": [
+    "unam",
+    "careers",
+    "data"
+  ],
+  "author": "Héctor Olvera Vital <hector@olvitec.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hyfi06/unam-careers/issues"
+  },
+  "homepage": "https://github.com/hyfi06/unam-careers#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.3",
+    "@types/node": "^20.4.3",
+    "@typescript-eslint/eslint-plugin": "^6.1.0",
+    "@typescript-eslint/parser": "^6.1.0",
+    "eslint": "^8.45.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "jest": "^29.6.1",
+    "prettier": "^3.0.0",
+    "ts-jest": "^29.1.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "@hyfi06/str-utils": "^1.0.0"
+  }
+}
