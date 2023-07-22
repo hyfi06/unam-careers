@@ -5,10 +5,16 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "type": "module",
+  "files": [
+    "README.md",
+    "package.json",
+    "dist"
+  ],
   "scripts": {
     "test": "jest",
     "build": "tsc",
-    "prepublish": "tsc"
+    "prepublish": "tsc",
+    "publish-dry-run": "npm run prepublish && npm publish --dry-run"
   },
   "repository": {
     "type": "git",
