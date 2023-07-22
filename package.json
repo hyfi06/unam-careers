@@ -7,15 +7,14 @@
   "type": "module",
   "files": [
     "README.md",
+    "LICENSE",
     "package.json",
     "dist"
   ],
   "scripts": {
     "test": "jest",
     "build": "tsc",
-    "prepublish": "tsc",
-    "publish-dry-run": "npm run prepublish && npm publish --dry-run",
-    "publish": "npm publish --access=public"
+    "prepublish": "tsc"
   },
   "repository": {
     "type": "git",
