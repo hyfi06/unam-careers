@@ -1,0 +1,1133 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CAREERS should not change unintentionally 1`] = `
+[
+  {
+    "alias": [
+      "ACTUARIA",
+      "ACT",
+    ],
+    "dgeciId": 11,
+    "id": 101,
+    "name": "Actuaría",
+    "siassId": 1,
+  },
+  {
+    "alias": [
+      "ARQUITECTURA",
+    ],
+    "id": 102,
+    "name": "Arquitectura",
+    "siassId": 2,
+  },
+  {
+    "alias": [
+      "ARQUITECTURA DE PAISAJE",
+      "ARQUITECTURA DEL PAISAJE",
+    ],
+    "id": 103,
+    "name": "Arquitectura de Paisaje",
+    "siassId": 3,
+  },
+  {
+    "alias": [
+      "CIENCIAS DE LA COMPUTACION",
+      "C. COMPUTACION",
+      "CC",
+    ],
+    "dgeciId": 12,
+    "id": 104,
+    "name": "Ciencias de la Computación",
+    "siassId": 4,
+  },
+  {
+    "alias": [
+      "DISEÑO INDUSTRIAL",
+      "DISENO INDUSTRIAL",
+    ],
+    "id": 105,
+    "name": "Diseño Industrial",
+    "siassId": 5,
+  },
+  {
+    "alias": [
+      "FISICA",
+      "FIS",
+    ],
+    "dgeciId": 13,
+    "id": 106,
+    "name": "Física",
+    "siassId": 6,
+  },
+  {
+    "alias": [
+      "ING. CIVIL",
+      "INGENIERIA CIVIL",
+    ],
+    "id": 107,
+    "name": "Ing. Civil",
+    "siassId": 7,
+  },
+  {
+    "alias": [
+      "ING. DE MINAS Y METALURGIA",
+      "INGENIERIA DE MINAS Y METALURGIA",
+    ],
+    "id": 108,
+    "name": "Ing. de Minas y Metalurgia",
+    "siassId": 8,
+  },
+  {
+    "alias": [
+      "ING. ELECTRICA Y ELECTRONICA",
+      "INGENIERIA ELECTRICA Y ELECTRONICA",
+    ],
+    "id": 109,
+    "name": "Ing. Eléctrica y Electrónica",
+    "siassId": 9,
+  },
+  {
+    "alias": [
+      "ING. EN COMPUTACION",
+      "INGENIERIA EN COMPUTACION",
+    ],
+    "id": 110,
+    "name": "Ing. en Computación",
+    "siassId": 10,
+  },
+  {
+    "alias": [
+      "ING. EN TELECOMUNICACIONES",
+      "INGENIERIA EN TELECOMUNICACIONES",
+    ],
+    "id": 111,
+    "name": "Ing. en Telecomunicaciones",
+    "siassId": 11,
+  },
+  {
+    "alias": [
+      "ING. GEOFISICA",
+      "INGENIERIA GEOFISICA",
+    ],
+    "id": 112,
+    "name": "Ing. Geofísica",
+    "siassId": 12,
+  },
+  {
+    "alias": [
+      "ING. GEOLOGICA",
+      "INGENIERIA GEOLOGICA",
+    ],
+    "id": 113,
+    "name": "Ing. Geológica",
+    "siassId": 13,
+  },
+  {
+    "alias": [
+      "ING. INDUSTRIAL",
+      "INGENIERIA INDUSTRIAL",
+    ],
+    "id": 114,
+    "name": "Ing. Industrial",
+    "siassId": 14,
+  },
+  {
+    "alias": [
+      "ING. MECANICA",
+      "INGENIERIA MECANICA",
+    ],
+    "id": 115,
+    "name": "Ing. Mecánica",
+    "siassId": 15,
+  },
+  {
+    "alias": [
+      "ING. MECANICA ELECTRICA",
+      "INGENIERIA MECANICA ELECTRICA",
+    ],
+    "id": 116,
+    "name": "Ing. Mecánica Eléctrica",
+    "siassId": 16,
+  },
+  {
+    "alias": [
+      "ING. PETROLERA",
+      "INGENIERIA PETROLERA",
+    ],
+    "id": 117,
+    "name": "Ing. Petrolera",
+    "siassId": 17,
+  },
+  {
+    "alias": [
+      "ING. QUIMICA",
+      "INGENIERIA QUIMICA",
+    ],
+    "id": 118,
+    "name": "Ing. Química",
+    "siassId": 18,
+  },
+  {
+    "alias": [
+      "ING. QUIMICA METALURGICA",
+      "INGENIERIA QUIMICA METALURGICA",
+    ],
+    "id": 119,
+    "name": "Ing. Química Metalúrgica",
+    "siassId": 19,
+  },
+  {
+    "alias": [
+      "ING. GEOMATICA",
+      "INGENIERIA GEOMATICA",
+    ],
+    "id": 120,
+    "name": "Ing. Geomática",
+    "siassId": 25,
+  },
+  {
+    "alias": [
+      "MATEMATICAS APLICADAS Y COMPUTACION",
+    ],
+    "id": 121,
+    "name": "Matemáticas Aplicadas y Computación",
+    "siassId": 21,
+  },
+  {
+    "alias": [
+      "MATEMATICAS",
+      "MAT",
+    ],
+    "dgeciId": 14,
+    "id": 122,
+    "name": "Matemáticas",
+    "siassId": 22,
+  },
+  {
+    "alias": [
+      "URBANISMO",
+    ],
+    "id": 123,
+    "name": "Urbanismo",
+    "siassId": 23,
+  },
+  {
+    "alias": [
+      "ING. MECATRONICA",
+      "INGENIERIA MECATRONICA",
+    ],
+    "id": 124,
+    "name": "Ing. Mecatrónica",
+    "siassId": 24,
+  },
+  {
+    "alias": [
+      "TECNOLOGIA",
+    ],
+    "id": 126,
+    "name": "Tecnología",
+    "siassId": 26,
+  },
+  {
+    "alias": [
+      "CIENCIAS DE LA TIERRA",
+      "CIENCIAS DE LA TIERRA - CAMPUS CU",
+      "CIENCIAS DE LA TIERRA - CU",
+      "CIENCIAS DE LA TIERRA - JURIQUILLA",
+      "CIENCIAS DE LA TIERRA - CAMPUS JURIQUILLA",
+      "CIENCIAS DE LA TIERRA, CIENCIAS ACUATICAS",
+      "CIENCIAS DE LA TIERRA, CIENCIAS AMBIENTALES",
+      "CIENCIAS DE LA TIERRA, CIENCIAS ATMOSFERICAS",
+      "CIENCIAS DE LA TIERRA, CIENCIAS ESPACIALES",
+      "CIENCIAS DE LA TIERRA, CIENCIAS DE LA TIERRA SOLIDA",
+      "CT",
+    ],
+    "dgeciId": 15,
+    "id": 127,
+    "name": "Ciencias de la Tierra",
+    "siassId": 27,
+  },
+  {
+    "alias": [
+      "ING. EN ENERGIAS RENOVABLES",
+      "INGENIERIA EN ENERGIAS RENOVABLES",
+    ],
+    "id": 128,
+    "name": "Ing. en Energías Renovables",
+    "siassId": 90,
+  },
+  {
+    "alias": [
+      "NANOTECNOLOGIA",
+    ],
+    "id": 129,
+    "name": "Nanotecnología",
+    "siassId": 91,
+  },
+  {
+    "alias": [
+      "ING. EN TELECOMUNICACIONES, SISTEMAS Y ELECTRONICA",
+      "INGENIERIA EN TELECOMUNICACIONES, SISTEMAS Y ELECTRONICA",
+      "INGENIERIA EN TELECOMUNICACIONES, SISTEMAS Y ELECT",
+    ],
+    "id": 130,
+    "name": "Ing. en Telecomunicaciones, Sistemas y Electrónica",
+    "siassId": 92,
+  },
+  {
+    "alias": [
+      "GEOCIENCIAS",
+    ],
+    "id": 131,
+    "name": "Geociencias",
+    "siassId": 93,
+  },
+  {
+    "alias": [
+      "TECNOLOGIAS PARA LA INFORMACION EN CIENCIAS",
+    ],
+    "id": 132,
+    "name": "Tecnologías para la Información en Ciencias",
+    "siassId": 94,
+  },
+  {
+    "alias": [
+      "CIENCIA DE MATERIALES SUSTENTABLES",
+    ],
+    "id": 133,
+    "name": "Ciencia de Materiales Sustentables",
+    "siassId": 95,
+  },
+  {
+    "alias": [
+      "FISICA BIOMEDICA",
+      "FB",
+    ],
+    "dgeciId": 10,
+    "id": 134,
+    "name": "Física Biomédica",
+    "siassId": 96,
+  },
+  {
+    "alias": [
+      "ING. EN SISTEMAS BIOMEDICOS",
+      "INGENIERIA EN SISTEMAS BIOMEDICOS",
+    ],
+    "id": 135,
+    "name": "Ing. en Sistemas Biomédicos",
+    "siassId": 97,
+  },
+  {
+    "alias": [
+      "MATEMATICAS APLICADAS",
+      "APLICADAS",
+      "MA",
+    ],
+    "dgeciId": 182,
+    "id": 136,
+    "name": "Matemáticas Aplicadas",
+    "siassId": 119,
+  },
+  {
+    "alias": [
+      "ING. AMBIENTAL",
+      "INGENIERIA AMBIENTAL",
+    ],
+    "id": 137,
+    "name": "Ing. Ambiental",
+    "siassId": 400,
+  },
+  {
+    "alias": [
+      "CIENCIAS DE DATOS",
+    ],
+    "id": 138,
+    "name": "Ciencias de Datos",
+    "siassId": 329,
+  },
+  {
+    "alias": [
+      "ING. AEROESPACIAL",
+      "INGENIERIA AEROESPACIAL",
+    ],
+    "id": 139,
+    "name": "Ing. Aeroespacial",
+    "siassId": 401,
+  },
+  {
+    "alias": [
+      "MATEMATICAS PARA EL DESARROLLO",
+    ],
+    "id": 140,
+    "name": "Matemáticas para el Desarrollo",
+    "siassId": 0,
+  },
+  {
+    "alias": [
+      "BIOLOGIA",
+      "BIO",
+    ],
+    "dgeciId": 16,
+    "id": 201,
+    "name": "Biología",
+    "siassId": 28,
+  },
+  {
+    "alias": [
+      "CIRUJANO DENTISTA",
+    ],
+    "id": 202,
+    "name": "Cirujano Dentista",
+    "siassId": 29,
+  },
+  {
+    "alias": [
+      "ENFERMERIA Y OBSTETRICIA",
+    ],
+    "id": 203,
+    "name": "Enfermería y Obstetricia",
+    "siassId": 30,
+  },
+  {
+    "alias": [
+      "ING. AGRICOLA",
+      "INGENIERIA AGRICOLA",
+    ],
+    "id": 204,
+    "name": "Ing. Agrícola",
+    "siassId": 31,
+  },
+  {
+    "alias": [
+      "ING. EN ALIMENTOS",
+      "INGENIERIA EN ALIMENTOS",
+    ],
+    "id": 205,
+    "name": "Ing. en Alimentos",
+    "siassId": 32,
+  },
+  {
+    "alias": [
+      "INVESTIGACION BIOMEDICA BASICA",
+    ],
+    "id": 206,
+    "name": "Investigación Biomédica Básica",
+    "siassId": 33,
+  },
+  {
+    "alias": [
+      "MEDICINA VETERINARIA Y ZOOTECNIA",
+    ],
+    "id": 207,
+    "name": "Medicina Veterinaria y Zootecnia",
+    "siassId": 34,
+  },
+  {
+    "alias": [
+      "MEDICO CIRUJANO",
+    ],
+    "id": 208,
+    "name": "Médico Cirujano",
+    "siassId": 35,
+  },
+  {
+    "alias": [
+      "OPTOMETRIA",
+    ],
+    "id": 209,
+    "name": "Optometría",
+    "siassId": 36,
+  },
+  {
+    "alias": [
+      "PSICOLOGIA",
+    ],
+    "id": 210,
+    "name": "Psicología",
+    "siassId": 37,
+  },
+  {
+    "alias": [
+      "QUIMICA",
+    ],
+    "id": 211,
+    "name": "Química",
+    "siassId": 38,
+  },
+  {
+    "alias": [
+      "QUIMICA DE ALIMENTOS",
+    ],
+    "id": 212,
+    "name": "Química de Alimentos",
+    "siassId": 39,
+  },
+  {
+    "alias": [
+      "QUIMICA FARMACEUTICO BIOLOGICA",
+    ],
+    "id": 213,
+    "name": "Química Farmacéutico Biológica",
+    "siassId": 40,
+  },
+  {
+    "alias": [
+      "QUIMICA INDUSTRIAL",
+    ],
+    "id": 214,
+    "name": "Química Industrial",
+    "siassId": 41,
+  },
+  {
+    "alias": [
+      "CIENCIAS GENOMICAS",
+    ],
+    "id": 215,
+    "name": "Ciencias Genómicas",
+    "siassId": 42,
+  },
+  {
+    "alias": [
+      "CIENCIAS AMBIENTALES",
+    ],
+    "id": 216,
+    "name": "Ciencias Ambientales",
+    "siassId": 43,
+  },
+  {
+    "alias": [
+      "MANEJO SUSTENTABLE DE ZONAS COSTERAS",
+      "MSZC",
+    ],
+    "dgeciId": 17,
+    "id": 217,
+    "name": "Manejo Sustentable de Zonas Costeras",
+    "siassId": 44,
+  },
+  {
+    "alias": [
+      "BIOQUIMICA DIAGNOSTICA",
+    ],
+    "id": 218,
+    "name": "Bioquímica Diagnóstica",
+    "siassId": 45,
+  },
+  {
+    "alias": [
+      "FARMACIA",
+    ],
+    "id": 219,
+    "name": "Farmacia",
+    "siassId": 46,
+  },
+  {
+    "alias": [
+      "ENFERMERIA",
+    ],
+    "id": 220,
+    "name": "Enfermería",
+    "siassId": 47,
+  },
+  {
+    "alias": [
+      "FISIOTERAPIA",
+    ],
+    "id": 221,
+    "name": "Fisioterapia",
+    "siassId": 98,
+  },
+  {
+    "alias": [
+      "ODONTOLOGIA",
+    ],
+    "id": 222,
+    "name": "Odontología",
+    "siassId": 99,
+  },
+  {
+    "alias": [
+      "CIENCIAS AGROGENOMICAS",
+    ],
+    "id": 223,
+    "name": "Ciencias Agrogenómicas",
+    "siassId": 100,
+  },
+  {
+    "alias": [
+      "CIENCIA FORENSE",
+    ],
+    "id": 224,
+    "name": "Ciencia Forense",
+    "siassId": 101,
+  },
+  {
+    "alias": [
+      "ECOLOGIA",
+    ],
+    "id": 225,
+    "name": "Ecología",
+    "siassId": 102,
+  },
+  {
+    "alias": [
+      "NEUROCIENCIAS",
+    ],
+    "id": 226,
+    "name": "Neurociencias",
+    "siassId": 345,
+  },
+  {
+    "alias": [
+      "NUTRIOLOGIA",
+    ],
+    "id": 227,
+    "name": "Nutriología",
+    "siassId": 344,
+  },
+  {
+    "alias": [
+      "ORTESIS Y PROTESIS",
+    ],
+    "id": 228,
+    "name": "Órtesis y Prótesis",
+    "siassId": 346,
+  },
+  {
+    "alias": [
+      "QUIMICA E INGENIERIA EN MATERIALES",
+    ],
+    "id": 229,
+    "name": "Química e Ingeniería en Materiales",
+    "siassId": 402,
+  },
+  {
+    "alias": [
+      "CIENCIAS AGROFORESTALES",
+    ],
+    "id": 230,
+    "name": "Ciencias Agroforestales",
+    "siassId": 0,
+  },
+  {
+    "alias": [
+      "CIENCIA DE LA NUTRICION HUMANA",
+      "LIC. EN CIENCIA DE LA NUTRICION HUMANA",
+    ],
+    "id": 231,
+    "name": "Ciencia de la Nutrición Humana",
+    "siassId": 398,
+  },
+  {
+    "alias": [
+      "ADMINISTRACION",
+    ],
+    "id": 301,
+    "name": "Administración",
+    "siassId": 48,
+  },
+  {
+    "alias": [
+      "CIENCIAS DE LA COMUNICACION",
+      "CIENCIAS DE LA COMUNICACION (PERIODISMO)",
+    ],
+    "id": 302,
+    "name": "Ciencias de la Comunicación",
+    "siassId": 49,
+  },
+  {
+    "alias": [
+      "CIENCIAS POLITICAS Y ADMINISTRACION PUBLICA",
+    ],
+    "id": 303,
+    "name": "Ciencias Políticas y Administración Pública",
+    "siassId": 50,
+  },
+  {
+    "alias": [
+      "CONTADURIA",
+    ],
+    "id": 304,
+    "name": "Contaduría",
+    "siassId": 51,
+  },
+  {
+    "alias": [
+      "DERECHO",
+    ],
+    "id": 305,
+    "name": "Derecho",
+    "siassId": 52,
+  },
+  {
+    "alias": [
+      "ECONOMIA",
+    ],
+    "id": 306,
+    "name": "Economía",
+    "siassId": 53,
+  },
+  {
+    "alias": [
+      "GEOGRAFIA",
+    ],
+    "id": 307,
+    "name": "Geografía",
+    "siassId": 54,
+  },
+  {
+    "alias": [
+      "INFORMATICA",
+    ],
+    "id": 308,
+    "name": "Informática",
+    "siassId": 55,
+  },
+  {
+    "alias": [
+      "PLANIFICACION PARA EL DESARROLLO AGROPECUARIO",
+    ],
+    "id": 309,
+    "name": "Planificación para el Desarrollo Agropecuario",
+    "siassId": 56,
+  },
+  {
+    "alias": [
+      "RELACIONES INTERNACIONALES",
+    ],
+    "id": 310,
+    "name": "Relaciones Internacionales",
+    "siassId": 57,
+  },
+  {
+    "alias": [
+      "SOCIOLOGIA",
+    ],
+    "id": 311,
+    "name": "Sociología",
+    "siassId": 58,
+  },
+  {
+    "alias": [
+      "TRABAJO SOCIAL",
+    ],
+    "id": 312,
+    "name": "Trabajo Social",
+    "siassId": 59,
+  },
+  {
+    "alias": [
+      "ECONOMIA INDUSTRIAL",
+    ],
+    "id": 313,
+    "name": "Economía Industrial",
+    "siassId": 103,
+  },
+  {
+    "alias": [
+      "ADMINISTRACION AGROPECUARIA",
+    ],
+    "id": 314,
+    "name": "Administración Agropecuaria",
+    "siassId": 104,
+  },
+  {
+    "alias": [
+      "COMUNICACION",
+    ],
+    "id": 315,
+    "name": "Comunicación",
+    "siassId": 105,
+  },
+  {
+    "alias": [
+      "COMUNICACION Y PERIODISMO",
+    ],
+    "id": 316,
+    "name": "Comunicación y Periodismo",
+    "siassId": 106,
+  },
+  {
+    "alias": [
+      "ESTUDIOS SOCIALES Y GESTION LOCAL",
+    ],
+    "id": 317,
+    "name": "Estudios Sociales y Gestión Local",
+    "siassId": 107,
+  },
+  {
+    "alias": [
+      "DESARROLLO COMUNITARIO PARA EL ENVEJECIMIENTO",
+    ],
+    "id": 318,
+    "name": "Desarrollo Comunitario para el Envejecimiento",
+    "siassId": 108,
+  },
+  {
+    "alias": [
+      "ANTROPOLOGIA",
+    ],
+    "id": 319,
+    "name": "Antropología",
+    "siassId": 326,
+  },
+  {
+    "alias": [
+      "DESARROLLO TERRITORIAL",
+    ],
+    "id": 320,
+    "name": "Desarrollo Territorial",
+    "siassId": 324,
+  },
+  {
+    "alias": [
+      "NEGOCIOS INTERNACIONALES",
+    ],
+    "id": 321,
+    "name": "Negocios Internacionales",
+    "siassId": 327,
+  },
+  {
+    "alias": [
+      "GEOGRAFIA APLICADA",
+    ],
+    "id": 322,
+    "name": "Geografía Aplicada",
+    "siassId": 343,
+  },
+  {
+    "alias": [
+      "TURISMO Y DESARROLLO SOSTENIBLE",
+    ],
+    "id": 323,
+    "name": "Turismo y Desarrollo Sostenible",
+    "siassId": 0,
+  },
+  {
+    "alias": [
+      "ARTES VISUALES",
+    ],
+    "id": 401,
+    "name": "Artes Visuales",
+    "siassId": 60,
+  },
+  {
+    "alias": [
+      "BIBLIOTECOLOGIA Y ESTUDIOS DE LA INFORMACION",
+      "BIBLIOTECOLOGIA",
+    ],
+    "id": 402,
+    "name": "Bibliotecología y Estudios de la información",
+    "siassId": 61,
+  },
+  {
+    "alias": [
+      "CANTO",
+    ],
+    "id": 403,
+    "name": "Canto",
+    "siassId": 62,
+  },
+  {
+    "alias": [
+      "COMPOSICION",
+    ],
+    "id": 404,
+    "name": "Composición",
+    "siassId": 63,
+  },
+  {
+    "alias": [
+      "DISEÑO Y COMUNICACION VISUAL",
+      "DISENO Y COMUNICACION VISUAL",
+    ],
+    "id": 405,
+    "name": "Diseño y Comunicación Visual",
+    "siassId": 82,
+  },
+  {
+    "alias": [
+      "DISEÑO GRAFICO",
+      "DISENO GRAFICO",
+    ],
+    "id": 406,
+    "name": "Diseño Gráfico",
+    "siassId": 65,
+  },
+  {
+    "alias": [
+      "EDUCACION MUSICAL",
+    ],
+    "id": 407,
+    "name": "Educación Musical",
+    "siassId": 66,
+  },
+  {
+    "alias": [
+      "ENSEÑANZA DE INGLES",
+      "ENSENANZA DE INGLES",
+    ],
+    "id": 408,
+    "name": "Enseñanza de Inglés",
+    "siassId": 67,
+  },
+  {
+    "alias": [
+      "ESTUDIOS LATINOAMERICANOS",
+    ],
+    "id": 409,
+    "name": "Estudios Latinoamericanos",
+    "siassId": 68,
+  },
+  {
+    "alias": [
+      "ETNOMUSICOLOGIA",
+    ],
+    "id": 410,
+    "name": "Etnomusicología",
+    "siassId": 69,
+  },
+  {
+    "alias": [
+      "FILOSOFIA",
+    ],
+    "id": 411,
+    "name": "Filosofía",
+    "siassId": 70,
+  },
+  {
+    "alias": [
+      "HISTORIA",
+    ],
+    "id": 412,
+    "name": "Historia",
+    "siassId": 71,
+  },
+  {
+    "alias": [
+      "INSTRUMENTISTA",
+    ],
+    "id": 413,
+    "name": "Instrumentista",
+    "siassId": 72,
+  },
+  {
+    "alias": [
+      "LENGUA Y LITERATURAS HISPANICAS",
+    ],
+    "id": 414,
+    "name": "Lengua y Literaturas Hispánicas",
+    "siassId": 73,
+  },
+  {
+    "alias": [
+      "LENGUA Y LITERATURAS MODERNAS ALEMANAS",
+      "LENGUA Y LIT MODERNAS ALEMANAS",
+    ],
+    "id": 415,
+    "name": "Lengua y Literaturas Modernas Alemanas",
+    "siassId": 74,
+  },
+  {
+    "alias": [
+      "LENGUA Y LITERATURAS MODERNAS FRANCESAS",
+      "LENGUA Y LIT MODERNAS FRANCESAS",
+    ],
+    "id": 416,
+    "name": "Lengua y Literaturas Modernas Francesas",
+    "siassId": 75,
+  },
+  {
+    "alias": [
+      "LENGUA Y LITERATURAS MODERNAS INGLESAS",
+      "LENGUA Y LIT MODERNAS INGLESAS",
+    ],
+    "id": 417,
+    "name": "Lengua y Literaturas Modernas Inglesas",
+    "siassId": 76,
+  },
+  {
+    "alias": [
+      "LENGUA Y LITERATURAS MODERNAS ITALIANAS",
+      "LENGUA Y LIT MODERNAS ITALIANAS",
+    ],
+    "id": 418,
+    "name": "Lengua y Literaturas Modernas Italianas",
+    "siassId": 77,
+  },
+  {
+    "alias": [
+      "LETRAS CLASICAS",
+    ],
+    "id": 419,
+    "name": "Letras Clásicas",
+    "siassId": 78,
+  },
+  {
+    "alias": [
+      "LITERATURA DRAMATICA Y TEATRO",
+    ],
+    "id": 420,
+    "name": "Literatura Dramática y Teatro",
+    "siassId": 79,
+  },
+  {
+    "alias": [
+      "PEDAGOGIA",
+    ],
+    "id": 421,
+    "name": "Pedagogía",
+    "siassId": 80,
+  },
+  {
+    "alias": [
+      "PIANO",
+    ],
+    "id": 422,
+    "name": "Piano",
+    "siassId": 81,
+  },
+  {
+    "alias": [
+      "ENSEÑANZA DE ALEMAN COMO LENGUA EXTRANJERA",
+      "ENSENANZA DE ALEMAN COMO LENGUA EXTRANJERA",
+    ],
+    "id": 424,
+    "name": "Enseñanza de Alemán como Lengua Extranjera",
+    "siassId": 83,
+  },
+  {
+    "alias": [
+      "ENSEÑANZA DE ESPAÑOL COMO LENGUA EXTRANJERA",
+      "ENSENANZA DE ESPANOL COMO LENGUA EXTRANJERA",
+    ],
+    "id": 425,
+    "name": "Enseñanza de Español como Lengua Extranjera",
+    "siassId": 84,
+  },
+  {
+    "alias": [
+      "ENSEÑANZA DE FRANCES COMO LENGUA EXTRANJERA",
+      "ENSENANZA DE FRANCES COMO LENGUA EXTRANJERA",
+    ],
+    "id": 426,
+    "name": "Enseñanza de Francés como Lengua Extranjera",
+    "siassId": 85,
+  },
+  {
+    "alias": [
+      "ENSEÑANZA DE INGLES COMO LENGUA EXTRANJERA",
+      "ENSENANZA DE INGLES COMO LENGUA EXTRANJERA",
+    ],
+    "id": 427,
+    "name": "Enseñanza de Inglés como Lengua Extranjera",
+    "siassId": 86,
+  },
+  {
+    "alias": [
+      "ENSEÑANZA DE ITALIANO COMO LENGUA EXTRANJERA",
+      "ENSENANZA DE ITALIANO COMO LENGUA EXTRANJERA",
+    ],
+    "id": 428,
+    "name": "Enseñanza de Italiano como Lengua Extranjera",
+    "siassId": 87,
+  },
+  {
+    "alias": [
+      "DESARROLLO Y GESTION INTERCULTURALES",
+    ],
+    "id": 429,
+    "name": "Desarrollo y Gestión Interculturales",
+    "siassId": 88,
+  },
+  {
+    "alias": [
+      "LENGUA Y LITERATURAS MODERNAS PORTUGUESAS",
+      "LENGUA Y LIT MODERNAS PORTUGUESAS",
+    ],
+    "id": 430,
+    "name": "Lengua y Literaturas Modernas Portuguesas",
+    "siassId": 89,
+  },
+  {
+    "alias": [
+      "GEOHISTORIA",
+    ],
+    "id": 431,
+    "name": "Geohistoria",
+    "siassId": 109,
+  },
+  {
+    "alias": [
+      "LITERATURA INTERCULTURAL",
+    ],
+    "id": 432,
+    "name": "Literatura Intercultural",
+    "siassId": 110,
+  },
+  {
+    "alias": [
+      "HISTORIA DEL ARTE",
+    ],
+    "id": 433,
+    "name": "Historia del Arte",
+    "siassId": 111,
+  },
+  {
+    "alias": [
+      "ARTE Y DISEÑO",
+      "ARTE Y DISENO",
+    ],
+    "id": 434,
+    "name": "Arte y Diseño",
+    "siassId": 112,
+  },
+  {
+    "alias": [
+      "CINEMATOGRAFIA",
+    ],
+    "id": 435,
+    "name": "Cinematografía",
+    "siassId": 113,
+  },
+  {
+    "alias": [
+      "TEATRO Y ACTUACION",
+    ],
+    "id": 436,
+    "name": "Teatro y Actuación",
+    "siassId": 114,
+  },
+  {
+    "alias": [
+      "ADMINISTRACION DE ARCHIVOS Y GESTION DOCUMENTAL",
+    ],
+    "id": 437,
+    "name": "Administración de Archivos y Gestión Documental",
+    "siassId": 115,
+  },
+  {
+    "alias": [
+      "MUSICA Y TECNOLOGIA ARTISTICA",
+    ],
+    "id": 438,
+    "name": "Música y Tecnología Artistica",
+    "siassId": 328,
+  },
+  {
+    "alias": [
+      "LINGUISTICA APLICADA",
+    ],
+    "id": 439,
+    "name": "Lingüística Aplicada",
+    "siassId": 330,
+  },
+  {
+    "alias": [
+      "TRADUCCION",
+    ],
+    "id": 440,
+    "name": "Traducción",
+    "siassId": 331,
+  },
+]
+`;

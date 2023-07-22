@@ -1,4 +1,10 @@
-type CareerDBitem = {
+/**
+ * data is a part of @hyfi06/unam-careers
+ * @copyright Copyright (c) 2023 Héctor Olvera Vital
+ * @license MIT
+ */
+
+type CareerItem = {
   id: number;
   name: string;
   siassId: number;
@@ -6,7 +12,7 @@ type CareerDBitem = {
   alias: string[];
 };
 
-const CAREERS: CareerDBitem[] = [
+const CAREERS: CareerItem[] = [
   {
     id: 101,
     name: 'Actuaría',
@@ -844,4 +850,6 @@ const CAREERS: CareerDBitem[] = [
     siassId: 331,
   },
 ];
+
+export type { CareerItem };
 export { CAREERS };

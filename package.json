@@ -1,10 +1,13 @@
 {
   "name": "@hyfi06/unam-careers",
   "version": "0.1.0",
-  "description": "Module of UNAM Careers ids",
+  "description": "A utility package for retrieving career information from UNAM.",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "type": "module",
   "scripts": {
     "test": "jest",
+    "build": "tsc",
     "prepublish": "tsc"
   },
   "repository": {
